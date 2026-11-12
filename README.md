@@ -55,7 +55,7 @@ The project may have the following constraints:
 |---|---|
 | Muhammad Hasnat Khan | Team Leader |
 | Zarrar | Team Member |
-| Talal | Team Member |
+
 
 ## 7. Team Responsibilities
 
