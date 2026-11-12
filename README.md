@@ -61,7 +61,7 @@ The project may have the following constraints:
 
 - **Muhammad Hasnat Khan:** Team coordination and project management.
 - **Zarrar:** Assistance in project analysis and documentation.
-- **Talal:** Assistance in project planning and system modeling.
+
 
 ## 8. Expected Outcome
 
