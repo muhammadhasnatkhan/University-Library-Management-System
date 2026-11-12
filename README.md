@@ -1,77 +1,74 @@
-# University-Library-Management-System
+# University Library Management System
+## Team Responsibilities and Effort Estimation
 
-## 1. Project Description
-
-The University Library Management System is a proposed software project designed to improve the management of library activities. It aims to replace traditional manual methods with a computerized system that makes library operations easier, faster, and more organized.
-
-The system will help manage books, student records, book issuing, book returning, and other basic library activities.
-
-## 2. Project Objectives
-
-The main objectives of this project are:
-
-- To improve the management of library activities.
-- To maintain proper records of books and students.
-- To make book issuing and returning easier.
-- To reduce manual work and paperwork.
-- To improve the accuracy of library records.
-- To save time and increase efficiency.
-
-## 3. Project Scope
-
-The project covers the basic activities of a university library, including:
-
-- Managing book records.
-- Managing student information.
-- Recording book issuing and returning.
-- Maintaining library membership records.
-- Keeping track of overdue books.
-- Organizing and maintaining library information.
-
-## 4. Project Assumptions
-
-The project is based on the following assumptions:
-
-- Basic information about books and students will be available.
-- Library staff will be responsible for managing records.
-- Users will provide accurate information.
-- The required computer facilities will be available.
-- The university will provide necessary information about library operations.
-
-## 5. Project Constraints
-
-The project may have the following constraints:
-
-- Limited time for project completion.
-- Limited financial resources.
-- Availability of technical resources.
-- Limited team members.
-- Requirements and scope defined by the university.
-- Availability of necessary information and resources.
-
-## 6. Team Members
+### 1. Team Members
 
 | Name | Role |
 |---|---|
 | Muhammad Hasnat Khan | Team Leader |
 | Zarrar | Team Member |
-| Talal | Team Member |
 
-## 7. Team Responsibilities
+### 2. Task Distribution and Effort Estimation
 
-- **Muhammad Hasnat Khan:** Team coordination and project management.
-- **Zarrar:** Assistance in project analysis and documentation.
-- **Talal:** Assistance in project planning and system modeling.
+| No. | Project Task | Responsible Member | Estimated Effort |
+|---|---|---|---|
+| 1 | Define project objectives and scope | Hasnat | 1 day |
+| 2 | Gather project requirements | Zarrar | 3 days |
+| 3 | Perform system analysis | Zarrar | 2 days |
+| 4 | Prepare system design and models | Hasnat | 3 days |
+| 5 | Prepare system prototype | Zarrar | 4 days |
+| 6 | Review and evaluate prototype | Both | 2 days |
+| 7 | Prepare project schedule and risk analysis | Hasnat | 2 days |
+| 8 | Prepare project documentation and README | Hasnat | 3 days |
+| 9 | Final review and presentation | Both | 2 days |
 
-## 8. Expected Outcome
+### 3. Individual Responsibilities
 
-The project is expected to provide a clear and organized solution for managing university library activities. It will help improve record management, reduce manual work, and make library operations more efficient.
+**Muhammad Hasnat Khan – Team Leader**
+- Manage and coordinate project activities.
+- Define project objectives and scope.
+- Prepare system design and models.
+- Prepare project schedule and risk analysis.
+- Maintain project documentation.
+- Monitor progress and manage deadlines.
+- Review the final project work.
 
----
+**Zarrar – Team Member**
+- Gather and identify project requirements.
+- Perform system analysis.
+- Prepare the system prototype.
+- Assist in project documentation.
+- Review and evaluate the prototype.
+- Support final project preparation.
+
+### 4. Effort Summary
+
+| Team Member | Estimated Effort |
+|---|---:|
+| Muhammad Hasnat Khan | 12 days |
+| Zarrar | 9 days |
+| **Total Individual Effort** | **21 person-days** |
+
+*Shared activities are included in both members' individual effort estimates.*
+
+### 5. Expected Outcome
+
+Both members will work together to complete the project activities according to the planned schedule. The team leader will monitor progress, distribute tasks, and ensure that all project deliverables are completed on time.
+
+### 6. Progress Tracking
+
+The team will review project progress weekly by checking:
+
+- Tasks completed by each member.
+- Tasks currently in progress.
+- Pending activities.
+- Problems or risks faced by the team.
+- Tasks planned for the following week.
 
 **Project Name:** University Library Management System
 
-**Repository Name:** university-library-management-system
+**Team Leader:** Muhammad Hasnat Khan
+
+**Team Member:** Zarrar
 
 **Project Type:** Software Engineering Academic Project
- 
